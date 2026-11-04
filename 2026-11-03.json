@@ -1,0 +1,9 @@
+{
+  "day": "2026-11-03",
+  "leaf_count": 116456,
+  "root": "2eabce8cfe0e4920600495c989f82cd5bb62eb4d0d64b67ea41d0dd5109f499d",
+  "sealed_at": "2026-11-04T01:30:03.088571Z",
+  "tree": "RFC6962 SHA-256; leaf=H(0x00||canonical_json(leaf_body)), node=H(0x01||L||R)",
+  "type": "x402-notary-daily-root",
+  "v": 1
+}
